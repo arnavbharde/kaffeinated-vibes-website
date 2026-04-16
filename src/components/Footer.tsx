@@ -1,4 +1,4 @@
-import { Instagram } from "lucide-react";
+// Instagram icon as inline SVG since lucide may not export it
 
 const Footer = () => (
   <footer className="bg-cafe-dark py-8 px-4">
