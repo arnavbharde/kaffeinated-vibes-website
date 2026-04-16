@@ -41,11 +41,11 @@ const ContactSection = () => {
               </div>
               <div className="flex items-center gap-3">
                 <Phone size={20} className="text-accent shrink-0" />
-                <span className="font-body text-foreground/80 text-sm">+91 98765 43210</span>
+                <span className="font-body text-foreground/80 text-sm">+91 94044 55446</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail size={20} className="text-accent shrink-0" />
-                <span className="font-body text-foreground/80 text-sm">hello@kaffeinated.in</span>
+                <span className="font-body text-foreground/80 text-sm">contact@kaffeinatedcafe.com</span>
               </div>
             </div>
 
